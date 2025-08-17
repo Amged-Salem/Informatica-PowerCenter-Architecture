@@ -13,8 +13,7 @@
   - **Designer (Mapping Designer)**: build source/target definitions, mappings, mapplets, reusable transformations.
   - **Workflow Manager**: create sessions, tasks, and workflows; set schedules and runtime properties.
   - **Workflow Monitor**: run/monitor workflows, view logs, throughput, errors, and recovery states.
-- **Sources and Targets**: Heterogeneous endpoints such as relational databases, XML, and flat files.
-- **ETL flow**: Extract → Transform → Load. Data moves from Source to Target through mappings executed by the Integration Service, with metadata stored/served by the Repository Service.
+
 
 ### How components interact
 
